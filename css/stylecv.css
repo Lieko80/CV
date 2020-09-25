@@ -1043,11 +1043,12 @@ partie informations
 		#28d7fe91 75%, #28D7FE 75%
   );
   
-  width: 95%;/*reglage pourcentage*/
+  width: 100%;/*reglage pourcentage*/
   height: 30px;
   line-height: 30px;
   color: #fff;
   background-size: 50px 50px;  
+  margin-left: -0.8rem;
   animation: bar-animation 3s linear infinite;
 	-moz-animation: bar-animation 3s linear infinite;
 	-webkit-animation: bar-animation 3s linear infinite;
@@ -1081,6 +1082,7 @@ partie informations
   line-height: 30px;
   color: #fff;
   background-size: 50px 50px;  
+  margin-left: -0.8rem;
   animation: bar-animation 3s linear infinite;
 	-moz-animation: bar-animation 3s linear infinite;
 	-webkit-animation: bar-animation 3s linear infinite;
@@ -1114,6 +1116,7 @@ partie informations
   line-height: 30px;
   color: #fff;
   background-size: 50px 50px;  
+  margin-left: -0.8rem;
   animation: bar-animation 3s linear infinite;
 	-moz-animation: bar-animation 3s linear infinite;
 	-webkit-animation: bar-animation 3s linear infinite;
@@ -1147,6 +1150,7 @@ partie informations
   line-height: 30px;
   color: #fff;
   background-size: 50px 50px;  
+  margin-left: -0.8rem;
   animation: bar-animation 3s linear infinite;
 	-moz-animation: bar-animation 3s linear infinite;
 	-webkit-animation: bar-animation 3s linear infinite;
@@ -1161,6 +1165,7 @@ partie informations
     background-position: 50px 50px;
   }
 }
+
 /*------------------------------------------------------------------------------
 contact
 ------------------------------------------------------------------------------------*/
